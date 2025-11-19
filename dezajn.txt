@@ -1,0 +1,7 @@
+Dizájn terv: 
+
+szinpaletta: elenk színek, sok színes kép, kivéve navbar.
+
+betutipus: amelyik jól néz ki arial,times new roman stb..
+
+oldalak: sok kép, sok szín
