@@ -1,0 +1,12 @@
+Design terv: 
+
+színpaletta: 	rgba(196,195,195,07)
+		rgba(156,156,156,07)
+		rgb(255,0,0)
+		rgb(83,83,83)
+		rgb(255,255,255)
+
+Betűtípus: font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+Oldalak: Képek,Szöveg			
+	 betűszínek fekete,
