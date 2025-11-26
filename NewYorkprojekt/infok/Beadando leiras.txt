@@ -1,0 +1,54 @@
+weblap keszitese:new york
+landing oldal altalanos torteneti at tekintes nevezeteseg kulon temakent
+varos mai jellemzoi 
+boots trap  
+github 
+planner
+swot 
+landing= fo oldal 
+felbontjak a feladatot 
+produktum feladatok
+landing
+kb 6 lap 
+rgb szinek 
+font family google family akkor be kell ileszteni a mappaba
+
+1 informacio gyujtes-github(forrasszoveg,kepek)
+pl hiressegeknek szoveg
+
+2 drotvaz keszitese
+megrajoljuk hogyan nezen ki a kozes weblapunk
+PL: https://www.webnode.com/hu/
+hogyan szeretnem lattni a weboldalt minden egyes oldalhoz kulon kulon vireframe.cc
+minden egyes kep gomb szoveg hol van 
+ugy nezen ki amig teljesen nem ugy nezki ahogy megszerkezteteuk 
+
+3 design-terv (mochup= weboldalnak a kepek)
+szinpaletta(rgb)
+betutipus
+   fejlesztes: 
+landing 
+oldal 1  
+oldal 2
+css:
+osztaly es id leiras
+
+dokumentacio keszitese:
+feladat leiras(specifikacio)
+feladat reszekre bontas
+word ossze foglalani 
+gant 
+kesz projekt git-hub
+ppt prezentacio
+Mit? Mit tanultam?
+Mit lehetne jobban? 
+hogyan lehetne tovabb fejleszteni?
+ 
+                                        ELSO MERFOLDKO!
+git repo 
+forras szoveg 
+drotvaz es design 
+doksi 
+gant 
+swot
+

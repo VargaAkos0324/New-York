@@ -1,0 +1,183 @@
+body{
+background-color: rgb(255, 255, 255);
+background-image: url(../NewYorkprojekt/fooldalkepek/backg.jpg);
+background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    gap: 100px;
+    
+}
+
+
+
+nav{
+    background-color: rgba(255, 255, 255, 0.253);
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.hero {
+    width: 100%;
+    height: 300px; 
+    background-size: cover;       
+    background-position: center;   
+    position: relative;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    
+    background: rgba(156, 156, 156, 0.897);
+    color: rgba(0, 38, 255, 0.959);
+    font-size: 32px;
+    font-weight: bold;
+    padding: 20px 50px;
+    border-radius: 12px;
+    font-size: 120px;
+}
+
+.szoveg{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 30px;
+}
+
+.img_deg{
+    float: left;
+    width: 50%;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.latvany{
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    top: 500px ;
+    background: rgba(196, 195, 195, 0.7);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 50px;
+    
+}
+
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+}
+
+.kozlekedes{
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    top: 1150px;
+    background: rgba(196, 195, 195, 0.7);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 50px;
+}
+
+.kultura{
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    top: 1800px;
+    background: rgba(196, 195, 195, 0.7);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 50px;
+}
+
+.gomb{
+    height: 60px;
+    width: 160px;
+}
+
+.img_deg_bal{
+    float: right;
+    width: 50%;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.nev_kep1{
+margin: 180px;
+box-sizing: border-box;
+border-radius: 15px;
+}
+
+
+.tori{
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    top: 2450px;
+    background: rgba(196, 195, 195, 0.7);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 50px;
+}
+
+.gombfo{
+    margin: 50px;
+    height: 80px;
+    width: 350px;
+     font-size: 30px;
+
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url(../NewYorkprojekt/fooldalkepek/backg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    gap: 100px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: rgba(255, 255, 255, 0.253);
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+
+.hero {
+    width: 100%;
+    height: 300px; 
+    background-size: cover;       
+    background-position: center;   
+    position: relative;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(156, 156, 156, 0.897);
+    color: rgba(0, 38, 255, 0.959);
+    font-size: 5vw;  
+    font-weight: bold;
+    padding: 20px 50px;
+    border-radius: 12px;
+    font-size: 120px;
+}
+
+.container{
+    gap: 20px;
+}
+
+
+
+
+
